@@ -1,19 +1,21 @@
 {
-  "1": {
-    "id": 1,
-  "title": "Holiday Sale",
-  "message": "For a limited time, you can Remove Ads at a discounted price of $0.99! This sale will last until the end of 2016 so buy now!",
-  "buttons": {
-    "Got It!" : ""
-  }
-  },
-  "2": {
-    "id": 2,
-    "title": "No More Images",
-    "message": "Can't use images anymore. You can still use custom images though.",
-    "buttons": {
-      "Learn More": "https://www.reddit.com/r/pokesensor/comments/4ymkuj/pokesensor_faq_and_troubleshooting/",
-      "Dismiss": ""
+  "messages": {
+    "1": {
+      "id": 1,
+      "title": "Holiday Sale",
+      "message": "For a limited time, you can Remove Ads at a discounted price of $0.99! This sale will last until the end of 2016 so buy now!",
+      "buttons": {
+        "Got It!": ""
+      }
+    },
+    "2": {
+      "id": 2,
+      "title": "No More Images",
+      "message": "Can't use images anymore. You can still use custom images though.",
+      "buttons": {
+        "Learn More": "https://www.reddit.com/r/pokesensor/comments/4ymkuj/pokesensor_faq_and_troubleshooting/",
+        "Dismiss": ""
+      }
     }
   }
 }
