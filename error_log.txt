@@ -8,8 +8,8 @@
         "Got It!": ""
       }
     },
-    "4": {
-      "id": 4,
+    "5": {
+      "id": 5,
       "title": "No More Images",
       "message": "Can't use images anymore. You can still use custom images though.",
       "buttons": {
