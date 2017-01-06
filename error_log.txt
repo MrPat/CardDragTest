@@ -1,17 +1,18 @@
 {
   "messages": {
-    "12": {
-      "id": 12,
+    "13": {
+      "id": 13,
       "minVersionIOS": 19,
       "minVersionAndroid": 99,
       "title": "2Captcha Support",
       "message": "You can now use 2Captcha to automatically solve captchas for you! Just add your 2Captcha API key from the Preferences menu and you'll be good to go! Note that 2Captcha is a paid 3rd party service",
       "buttons": {
-        "Got It!": ""
+        "Learn more": "https://2captcha.com/",
+        "No thanks": ""
       }
     },
-    "13": {
-      "id": 13,
+    "14": {
+      "id": 14,
       "minVersionIOS": 19,
       "minVersionAndroid": 99,
       "title": "New 0.51 API Support",
