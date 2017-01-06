@@ -1,8 +1,18 @@
 {
   "messages": {
-    "1": {
-      "id": 1,
+    "3": {
+      "id": 3,
       "minVersionIOS": 20,
+      "minVersionAndroid": 99,
+      "title": "How to Fix Glitch",
+      "message": "Sorry, this app update has a glitch that prevents the default markers from showing properly. Click below to learn how to fix it.",
+      "buttons": {
+        "Fix it": "https://www.reddit.com/r/pokesensor/comments/5mfv7a/how_to_fix_latest_glitch_on_ios_update/?ref=share&ref_source=link"
+      }
+    },
+    "4": {
+      "id": 4,
+      "minVersionIOS": 99,
       "minVersionAndroid": 99,
       "title": "2Captcha Support",
       "message": "You can now use 2Captcha to automatically solve captchas for you! Just add your 2Captcha API key from the Preferences menu and you'll be good to go! Note that 2Captcha is a paid 3rd party service",
@@ -11,9 +21,9 @@
         "No thanks": ""
       }
     },
-    "2": {
-      "id": 2,
-      "minVersionIOS": 20,
+    "5": {
+      "id": 5,
+      "minVersionIOS": 99,
       "minVersionAndroid": 99,
       "title": "New 0.51 API Support",
       "message": "You can now opt to use the new 0.51 API provided by PokeFarmer. Note they are charging for use so you'll have to get an API key and enter it in the Preferences menu. The new API isn't necessary right now but it might be eventually.",
