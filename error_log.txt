@@ -1,8 +1,8 @@
 {
   "messages": {
-    "13": {
-      "id": 13,
-      "minVersionIOS": 19,
+    "1": {
+      "id": 1,
+      "minVersionIOS": 20,
       "minVersionAndroid": 99,
       "title": "2Captcha Support",
       "message": "You can now use 2Captcha to automatically solve captchas for you! Just add your 2Captcha API key from the Preferences menu and you'll be good to go! Note that 2Captcha is a paid 3rd party service",
@@ -11,9 +11,9 @@
         "No thanks": ""
       }
     },
-    "14": {
-      "id": 14,
-      "minVersionIOS": 19,
+    "2": {
+      "id": 2,
+      "minVersionIOS": 20,
       "minVersionAndroid": 99,
       "title": "New 0.51 API Support",
       "message": "You can now opt to use the new 0.51 API provided by PokeFarmer. Note they are charging for use so you'll have to get an API key and enter it in the Preferences menu. The new API isn't necessary right now but it might be eventually.",
