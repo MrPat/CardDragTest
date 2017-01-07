@@ -1,26 +1,5 @@
 {
   "messages": {
-    "3": {
-      "id": 3,
-      "minVersionIOS": 99,
-      "minVersionAndroid": 99,
-      "title": "How to Fix Glitch",
-      "message": "Sorry, this app update has a glitch that prevents the default markers from showing properly. Click below to learn how to fix it.",
-      "buttons": {
-        "Fix it": "https://www.reddit.com/r/pokesensor/comments/5mfv7a/how_to_fix_latest_glitch_on_ios_update/?ref=share&ref_source=link"
-      }
-    },
-    "4": {
-      "id": 4,
-      "minVersionIOS": 20,
-      "minVersionAndroid": 99,
-      "title": "Default Markers Glitch",
-      "message": "The default markers aren't working right now because of a glitch. Please click below to learn how to use custom images.",
-      "buttons": {
-        "Learn more": "https://www.reddit.com/r/pokesensor/comments/5mfv7a/how_to_fix_latest_glitch_on_ios_update/?ref=share&ref_source=link",
-        "No thanks": ""
-      }
-    },
     "5": {
       "id": 5,
       "minVersionIOS": 99,
