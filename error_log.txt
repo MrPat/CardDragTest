@@ -2,7 +2,7 @@
   "messages": {
     "3": {
       "id": 3,
-      "minVersionIOS": 20,
+      "minVersionIOS": 99,
       "minVersionAndroid": 99,
       "title": "How to Fix Glitch",
       "message": "Sorry, this app update has a glitch that prevents the default markers from showing properly. Click below to learn how to fix it.",
