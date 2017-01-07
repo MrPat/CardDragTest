@@ -12,6 +12,17 @@
     },
     "4": {
       "id": 4,
+      "minVersionIOS": 20,
+      "minVersionAndroid": 99,
+      "title": "Default Markers Glitch",
+      "message": "The default markers aren't working right now because of a glitch. Please click below to learn how to use custom images.",
+      "buttons": {
+        "Learn more": "https://www.reddit.com/r/pokesensor/comments/5mfv7a/how_to_fix_latest_glitch_on_ios_update/?ref=share&ref_source=link",
+        "No thanks": ""
+      }
+    },
+    "5": {
+      "id": 5,
       "minVersionIOS": 99,
       "minVersionAndroid": 99,
       "title": "2Captcha Support",
@@ -21,8 +32,8 @@
         "No thanks": ""
       }
     },
-    "5": {
-      "id": 5,
+    "6": {
+      "id": 6,
       "minVersionIOS": 99,
       "minVersionAndroid": 99,
       "title": "New 0.51 API Support",
