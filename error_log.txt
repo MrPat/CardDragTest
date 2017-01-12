@@ -32,6 +32,16 @@
         "Learn more": "https://talk.pogodev.org/d/51-api-hashing-service-by-pokefarmer",
         "No thanks": ""
       }
+    },
+    "7": {
+      "id": 7,
+      "minVersionIOS": 24,
+      "minVersionAndroid": 99,
+      "title": "Bug Fix",
+      "message": "If you keep scanning and don't find any Pokemon and you know it's not because of a filter or softban, try disabling Scan IVs. This is a bug that I'm going to fix soon.",
+      "buttons": {
+        "Understood": ""
+      }
     }
   }
 }
