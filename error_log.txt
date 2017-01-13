@@ -60,7 +60,7 @@
       "maxVersionIOS": 99,
       "minVersionAndroid": 99,
       "title": "Recent Errors",
-      "message": "I apologize iff you've been experiencing problems with 0/0 accounts or no Accounts button, that should be fixed now. The problem was that I use Github to store some things (like this message), and they were experiencing outages this morning. Next update will rely less on them in case this happens again.\n\nThanks,\nPatrick\nLogick LLC",
+      "message": "I apologize if you've been experiencing problems with 0/0 accounts or no Accounts button, that should be fixed now. The problem was that I use Github to store some things (like this message), and they were experiencing outages this morning. Next update will rely less on them in case this happens again.\n\nThanks,\nPatrick\nLogick LLC",
       "buttons": {
         "We Understand, Bro": ""
       }
