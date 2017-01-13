@@ -47,7 +47,6 @@
       "id": 9,
       "minVersionIOS": 99,
       "minVersionAndroid": 28,
-      "maxVersionAndroid": 30,
       "title": "New Update",
       "message": "I found and fixed the freezing glitch that was happening yesterday. You can now download the new complete update which has IV labels and custom images. Note this update won't include default Pokemon images so it's up to you.",
       "buttons": {
