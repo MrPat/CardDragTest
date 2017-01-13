@@ -36,11 +36,23 @@
     "8": {
       "id": 8,
       "minVersionIOS": 24,
-      "minVersionAndroid": 28,
+      "minVersionAndroid": 99,
       "title": "Known Bug",
       "message": "If you keep scanning and don't find any Pokemon and you know it's not because of a filter or softban, that's a known bug as of today 1/12/17. I think it's caused by Niantic's servers acting up. Working on a fix...",
       "buttons": {
         "Understood": ""
+      }
+    },
+    "9": {
+      "id": 9,
+      "minVersionIOS": 99,
+      "minVersionAndroid": 28,
+      "maxVersionAndroid": 30,
+      "title": "New Update",
+      "message": "I found and fixed the freezing glitch that was happening yesterday. You can now download the new complete update which has IV labels and custom images. Note this update won't include default Pokemon images so it's up to you.",
+      "buttons": {
+        "Update": "https://github.com/MrPat/PokeSensorAPK/raw/master/pokesensor.apk",
+        "No thanks": ""
       }
     }
   }
