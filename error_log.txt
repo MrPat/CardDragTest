@@ -11,17 +11,6 @@
         "No thanks": ""
       }
     },
-    "5": {
-      "id": 5,
-      "minVersionIOS": 99,
-      "minVersionAndroid": 99,
-      "title": "2Captcha Support",
-      "message": "You can now use 2Captcha to automatically solve captchas for you! Just add your 2Captcha API key from the Preferences menu and you'll be good to go! Note that 2Captcha is a paid 3rd party service",
-      "buttons": {
-        "Learn more": "https://2captcha.com/",
-        "No thanks": ""
-      }
-    },
     "6": {
       "id": 6,
       "minVersionIOS": 99,
@@ -38,7 +27,7 @@
       "minVersionIOS": 24,
       "minVersionAndroid": 28,
       "title": "Known Bug",
-      "message": "If you keep scanning and don't find any Pokemon and you know it's not because of a filter or softban, that's a known bug as of today 1/12/17. I think it's caused by Niantic's servers acting up. Working on a fix...",
+      "message": "If you keep scanning and don't find any Pokemon and you know it's not because of a filter or softban, that's a known bug as of today 1/12/17. I think it's caused by Niantic's servers acting up. Reinstalling has been shown to fix it. Working on a permanent fix...",
       "buttons": {
         "Understood": ""
       }
@@ -46,7 +35,7 @@
     "9": {
       "id": 9,
       "minVersionIOS": 99,
-      "minVersionAndroid": 28,
+      "minVersionAndroid": 99,
       "title": "New Update",
       "message": "I found and fixed the freezing glitch that was happening yesterday. You can now download the new complete update which has IV labels and custom images. Note this update won't include default Pokemon images so it's up to you.",
       "buttons": {
@@ -56,12 +45,23 @@
     },
     "10": {
       "id": 10,
-      "minVersionIOS": 0,
+      "minVersionIOS": 99,
       "minVersionAndroid": 99,
       "title": "Recent Errors",
       "message": "I apologize if you've been experiencing problems with 0/0 accounts or no Accounts button, that should be fixed now. The problem was that I use Github to store some things (like this message), and they were experiencing outages this morning. Next update will rely less on them in case this happens again.\n\nThanks,\nPatrick\nLogick LLC",
       "buttons": {
         "We Understand, Bro": ""
+      }
+    },
+    "11": {
+      "id": 11,
+      "minVersionIOS": 0,
+      "minVersionAndroid": 0,
+      "title": "2Captcha Support",
+      "message": "You can now use 2Captcha to automatically solve captchas for you! Just add your 2Captcha API key from the Preferences menu and you'll be good to go! Note that 2Captcha is a paid 3rd party service. If you sign up after pressing the button below, I'll even get a little bonus for referring you!",
+      "buttons": {
+        "Learn more": "http://2captcha.com/?from=2603548",
+        "No thanks": ""
       }
     }
   }
