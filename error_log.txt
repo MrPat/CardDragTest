@@ -70,8 +70,8 @@
       "maxVersionIOS": 100,
       "minVersionAndroid": 0,
       "maxVersionAndroid": 100,
-      "title": "Bans are Back",
-      "message": "Niantic force-updated API today, \"new API\" is now obsolete, and bans are back. Click here for a quick rundown of what it means for you.",
+      "title": "Niantic Updated API",
+      "message": "Niantic force-updated API today, \"new API\" is now obsolete, and some people have been getting bans again. Click here for a quick rundown of what it means for you.",
       "buttons": {
         "Learn more": "https://www.reddit.com/r/pokesensor/comments/5ozi85/niantic_updates_servers_new_api_is_obsolete_and/?ref=share&ref_source=link",
         "Dismiss": ""
