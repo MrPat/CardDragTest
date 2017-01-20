@@ -3,7 +3,7 @@
     "4": {
       "id": 4,
       "minVersionIOS": 99,
-      "minVersionAndroid": 28,
+      "minVersionAndroid": 99,
       "title": "Revert to Last Update?",
       "message": "Since so much has changed in this update, for a limited time you can revert back to the last update. Keep in mind the last update was not Gen 2 friendly. Do you want to revert?",
       "buttons": {
