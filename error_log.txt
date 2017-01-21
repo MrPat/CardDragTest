@@ -64,16 +64,16 @@
         "No thanks": ""
       }
     },
-    "12": {
-      "id": 12,
+    "13": {
+      "id": 13,
       "minVersionIOS": 0,
       "maxVersionIOS": 100,
       "minVersionAndroid": 0,
       "maxVersionAndroid": 100,
-      "title": "Niantic Updated API",
-      "message": "Niantic force-updated API today, \"new API\" is now obsolete, and some people have been getting bans again. Click here for a quick rundown of what it means for you.",
+      "title": "Recent API Changes",
+      "message": "The default API used in the app is attracting a lot of bans now. The new API is somewhat in limbo until the Java Pokemon library is updated. May be a few days before everything is back to normal. Click the button for more info on that.",
       "buttons": {
-        "Learn more": "https://www.reddit.com/r/pokesensor/comments/5ozi85/niantic_updates_servers_new_api_is_obsolete_and/?ref=share&ref_source=link",
+        "Learn more": "https://www.reddit.com/r/pokesensor/comments/5p8u57/new_api_is_updated_to_the_latest_version_0531_now/?ref=share&ref_source=link",
         "Dismiss": ""
       }
     }
