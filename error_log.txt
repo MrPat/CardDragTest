@@ -56,7 +56,9 @@
     "11": {
       "id": 11,
       "minVersionIOS": 0,
+      "maxVersionIOS": 100,
       "minVersionAndroid": 0,
+      "maxVersionAndroid": 100,
       "title": "2Captcha Support",
       "message": "You can now use 2Captcha to automatically solve captchas for you! Just add your 2Captcha API key from the Preferences menu and you'll be good to go! Note that 2Captcha is a paid 3rd party service. If you sign up after pressing the button below, I'll even get a little bonus for referring you!",
       "buttons": {
