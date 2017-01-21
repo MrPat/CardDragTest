@@ -24,8 +24,8 @@
     },
     "8": {
       "id": 8,
-      "minVersionIOS": 24,
-      "minVersionAndroid": 28,
+      "minVersionIOS": 99,
+      "minVersionAndroid": 99,
       "title": "Known Bug",
       "message": "If you keep scanning and don't find any Pokemon and you know it's not because of a filter or softban, that's a known bug as of today 1/12/17. I think it's caused by Niantic's servers acting up. Reinstalling has been shown to fix it. Working on a permanent fix...",
       "buttons": {
