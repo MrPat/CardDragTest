@@ -81,7 +81,7 @@
     },
     "14": {
       "id": 14,
-      "minVersionIOS": 100,
+      "minVersionIOS": 30,
       "maxVersionIOS": 100,
       "minVersionAndroid": 34,
       "maxVersionAndroid": 100,
