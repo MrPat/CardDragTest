@@ -91,6 +91,18 @@
         "Get New API": "https://talk.pogodev.org/d/51-api-hashing-service-by-pokefarmer",
         "Dismiss": ""
       }
+    },
+    "15": {
+      "id": 15,
+      "minVersionIOS": 0,
+      "maxVersionIOS": 100,
+      "minVersionAndroid": 0,
+      "maxVersionAndroid": 100,
+      "title": "Uncertain Times",
+      "message": "This is an uncertain time for scanner apps. It's hard to know how long scanners will be available for download. With that in mind, I'm asking everyone to please share PokeSensor with your friends. Tell them to get it while they still can. Better for them to get it now than wait until it's gone and wish they had. But don't panic, we're still going strong for now :)",
+      "buttons": {
+        "Understood": ""
+      }
     }
   }
 }
