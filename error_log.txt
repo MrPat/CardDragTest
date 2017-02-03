@@ -68,10 +68,10 @@
     },
     "13": {
       "id": 13,
-      "minVersionIOS": 0,
-      "maxVersionIOS": 100,
-      "minVersionAndroid": 0,
-      "maxVersionAndroid": 33,
+      "minVersionIOS": 100,
+      "maxVersionIOS": 0,
+      "minVersionAndroid": 100,
+      "maxVersionAndroid": 0,
       "title": "Recent API Changes",
       "message": "The default API used in the app is attracting some bans now. The new API is somewhat in limbo until the Java Pokemon library is updated. May be a few days before everything is back to normal. Click the button for more info on that.",
       "buttons": {
@@ -81,10 +81,10 @@
     },
     "14": {
       "id": 14,
-      "minVersionIOS": 30,
-      "maxVersionIOS": 100,
-      "minVersionAndroid": 34,
-      "maxVersionAndroid": 100,
+      "minVersionIOS": 100,
+      "maxVersionIOS": 0,
+      "minVersionAndroid": 134,
+      "maxVersionAndroid": 0,
       "title": "New API is Updated",
       "message": "The default API used in the app is attracting some bans now. The new paid API is now updated to the latest version (0.53.1) if you want to use it. It should theoretically give less captcha and be much harder to get a ban. Your old accounts may already be flagged though, so results may vary. New accounts should work well on the new API though.",
       "buttons": {
@@ -102,6 +102,32 @@
       "message": "This is an uncertain time for scanner apps. It's hard to know how long scanners will be available for download. With that in mind, I'm asking everyone to please share PokeSensor with your friends. Tell them to get it while they still can. Better for them to get it now than wait until it's gone and wish they had. But don't panic, we're still going strong for now :)",
       "buttons": {
         "Understood": ""
+      }
+    },
+    "16": {
+      "id": 16,
+      "minVersionIOS": 33,
+      "maxVersionIOS": 100,
+      "minVersionAndroid": 39,
+      "maxVersionAndroid": 100,
+      "title": "Paid API Updated",
+      "message": "The paid API is now updated to 0.55 which is the latest version. This will ensure that your accounts are safer (and less captcha) than just using the default free 0.45 API that comes with the app. If you already have an API key, you won't have to do anything special. If not, go to Settings > Help to get more info about the paid API.",
+      "buttons": {
+        "Learn more": "https://www.reddit.com/r/pokesensor/comments/4ymkuj/pokesensor_faq_and_troubleshooting/?ref=share&ref_source=link",
+        "Dismiss": ""
+      }
+    },
+    "17": {
+      "id": 17,
+      "minVersionIOS": 100,
+      "maxVersionIOS": 0,
+      "minVersionAndroid": 39,
+      "maxVersionAndroid": 100,
+      "title": "Background Scanning Beta",
+      "message": "I've added a new Background Scanning Beta feature to this update. You can set the app to scan in the background at a specified time interval, and you can get notifications when it finds certain Pokemon. You can find it on the toolbar menu. For more info, click the button below.",
+      "buttons": {
+        "Learn more": "https://www.reddit.com/r/pokesensor/comments/5rrwso/new_android_update_includes_background_scanning/?ref=share&ref_source=link",
+        "Dismiss": ""
       }
     }
   }
