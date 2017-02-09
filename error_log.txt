@@ -129,6 +129,18 @@
         "Learn more": "https://www.reddit.com/r/pokesensor/comments/5rrwso/new_android_update_includes_background_scanning/?ref=share&ref_source=link",
         "Dismiss": ""
       }
+    },
+    "18": {
+      "id": 18,
+      "minVersionIOS": 100,
+      "maxVersionIOS": 0,
+      "minVersionAndroid": 39,
+      "maxVersionAndroid": 100,
+      "title": "Aggressive Ad Issues",
+      "message": "If you notice any aggressive ads that pop up without user interaction or do something else wrong, please screenshot the ad and send it to me. That's not the way I do business, but lately I've been getting reports of some banner ads acting like this. I'm currently working with the ad network to stop the problem, and all screenshots of rogue ads are helpful.",
+      "buttons": {
+        "I am your eyes and ears, Sensei": ""
+      }
     }
   }
 }
