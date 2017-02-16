@@ -149,9 +149,10 @@
       "minVersionAndroid": 0,
       "maxVersionAndroid": 100,
       "title": "New API is Obsolete",
-      "message": "Niantic just force updated to the new 0.57.2 API, which means the 'new' 0.55 API that the app has now is no longer ban-safe. The RE devs are working on figuring out the new API again and I'll let you know when it's finished and when the app supports it.",
+      "message": "Niantic just force updated to the new 0.57.2 API, which means the 'new' 0.55 API that the app has now is no longer ban-safe. The RE devs are working on figuring out the new API again and I'll let you know when it's finished and when the app supports it. You can also go to my Twitter for updates.",
       "buttons": {
-        "Ok": ""
+        "Twitter": "https://twitter.com/LogickLLC",
+        "Dismiss": ""
       }
     }
   }
