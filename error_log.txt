@@ -55,10 +55,10 @@
     },
     "11": {
       "id": 11,
-      "minVersionIOS": 0,
-      "maxVersionIOS": 100,
-      "minVersionAndroid": 0,
-      "maxVersionAndroid": 100,
+      "minVersionIOS": 100,
+      "maxVersionIOS": 0,
+      "minVersionAndroid": 100,
+      "maxVersionAndroid": 0,
       "title": "2Captcha Support",
       "message": "You can now use 2Captcha to automatically solve captchas for you! Just add your 2Captcha API key from the Preferences menu and you'll be good to go! Note that 2Captcha is a paid 3rd party service. If you sign up after pressing the button below, I'll even get a little bonus for referring you!",
       "buttons": {
@@ -94,10 +94,10 @@
     },
     "15": {
       "id": 15,
-      "minVersionIOS": 0,
-      "maxVersionIOS": 100,
-      "minVersionAndroid": 0,
-      "maxVersionAndroid": 100,
+      "minVersionIOS": 100,
+      "maxVersionIOS": 0,
+      "minVersionAndroid": 100,
+      "maxVersionAndroid": 0,
       "title": "Uncertain Times",
       "message": "This is an uncertain time for scanner apps. It's hard to know how long scanners will be available for download. With that in mind, I'm asking everyone to please share PokeSensor with your friends. Tell them to get it while they still can. Better for them to get it now than wait until it's gone and wish they had. But don't panic, we're still going strong for now :)",
       "buttons": {
@@ -106,10 +106,10 @@
     },
     "16": {
       "id": 16,
-      "minVersionIOS": 33,
-      "maxVersionIOS": 100,
-      "minVersionAndroid": 39,
-      "maxVersionAndroid": 100,
+      "minVersionIOS": 100,
+      "maxVersionIOS": 0,
+      "minVersionAndroid": 100,
+      "maxVersionAndroid": 0,
       "title": "Paid API Updated",
       "message": "The paid API is now updated to 0.55 which is the latest version. This will ensure that your accounts are safer (and less captcha) than just using the default free 0.45 API that comes with the app. If you already have an API key, you won't have to do anything special. If not, go to Settings > Help to get more info about the paid API.",
       "buttons": {
@@ -140,6 +140,18 @@
       "message": "If you notice any aggressive ads that pop up without user interaction or do something else wrong, please screenshot the ad and send it to me. That's not the way I do business, but lately I've been getting reports of some banner ads acting like this. I'm currently working with the ad network to stop the problem, and all screenshots of rogue ads are helpful.",
       "buttons": {
         "I am your eyes and ears, Sensei": ""
+      }
+    },
+    "19": {
+      "id": 19,
+      "minVersionIOS": 0,
+      "maxVersionIOS": 100,
+      "minVersionAndroid": 0,
+      "maxVersionAndroid": 100,
+      "title": "New API is Obsolete",
+      "message": "Niantic just force updated to the new 0.57.2 API, which means the 'new' 0.55 API that the app has now is no longer ban-safe. The RE devs are working on figuring out the new API again and I'll let you know when it's finished and when the app supports it.",
+      "buttons": {
+        "Ok": ""
       }
     }
   }
