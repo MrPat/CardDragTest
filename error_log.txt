@@ -167,6 +167,19 @@
         "Images Example": "https://twitter.com/LogickLLC/status/808520599878434816",
         "Dismiss": ""
       }
+    },
+    "21": {
+      "id": 21,
+      "minVersionIOS": 0,
+      "maxVersionIOS": 100,
+      "minVersionAndroid": 0,
+      "maxVersionAndroid": 100,
+      "title": "Latest PokeSensor News",
+      "message": "Lots of crazy things have happened today so I wrote this to fully explain everything that's happening and hopefully answer the questions a lot of you have about Gen 2 and the API situation.",
+      "buttons": {
+        "Learn more": "https://www.reddit.com/r/pokesensor/comments/5ujpux/catching_up_on_gen_2_current_api_situation/?ref=share&ref_source=link",
+        "Dismiss": ""
+      }
     }
   }
 }
