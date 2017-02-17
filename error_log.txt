@@ -162,7 +162,7 @@
       "minVersionAndroid": 0,
       "maxVersionAndroid": 100,
       "title": "Gen 2 is Here!",
-      "message": "PokeSensor just started picking up Gen 2 Pokemon! Looks like either an early release or possibly a server test, so get them while you can! For custom images, your same URL should work, just re-import it. Example below.",
+      "message": "PokeSensor just started picking up Gen 2 Pokemon! Looks like an early release! For custom images, your same URL should work, just re-import it. Example below.",
       "buttons": {
         "Images Example": "https://twitter.com/LogickLLC/status/808520599878434816",
         "Dismiss": ""
