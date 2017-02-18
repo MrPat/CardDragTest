@@ -180,6 +180,18 @@
         "Learn more": "https://www.reddit.com/r/pokesensor/comments/5ujpux/catching_up_on_gen_2_current_api_situation/?ref=share&ref_source=link",
         "Dismiss": ""
       }
+    },
+    "22": {
+      "id": 22,
+      "minVersionIOS": 100,
+      "maxVersionIOS": 0,
+      "minVersionAndroid": 43,
+      "maxVersionAndroid": 43,
+      "title": "Paid API Updated",
+      "message": "The paid API has been updated to 0.57.2 in this update. If you use the paid API then you should be safer bans and captcha now.",
+      "buttons": {
+        "Dismiss": ""
+      }
     }
   }
 }
