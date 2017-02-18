@@ -192,6 +192,18 @@
       "buttons": {
         "Dismiss": ""
       }
+    },
+    "23": {
+      "id": 23,
+      "minVersionIOS": 100,
+      "maxVersionIOS": 0,
+      "minVersionAndroid": 42,
+      "maxVersionAndroid": 43,
+      "title": "IV Override Glitch",
+      "message": "If you've updated or installed on 2/16 or 2/17 there's a chance your Gen 2 IV Overrides could all be enabled. This is due to a glitch that's been fixed, but you may want to check them to be sure. Not a big deal but would make Gen 2 Pokemon ignore your IV settings and always show.",
+      "buttons": {
+        "Dismiss": ""
+      }
     }
   }
 }
