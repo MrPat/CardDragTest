@@ -144,10 +144,10 @@
     },
     "19": {
       "id": 19,
-      "minVersionIOS": 0,
+      "minVersionIOS": 100,
       "maxVersionIOS": 100,
-      "minVersionAndroid": 0,
-      "maxVersionAndroid": 42,
+      "minVersionAndroid": 100,
+      "maxVersionAndroid": 100,
       "title": "New API is Obsolete",
       "message": "Niantic just force updated to the new 0.57.2 API, which means the 'new' 0.55 API that the app has now is no longer ban-safe. The RE devs are working on figuring out the new API again and I'll let you know when it's finished and when the app supports it. You can also go to my Twitter for updates.",
       "buttons": {
@@ -157,9 +157,9 @@
     },
     "20": {
       "id": 20,
-      "minVersionIOS": 0,
+      "minVersionIOS": 100,
       "maxVersionIOS": 100,
-      "minVersionAndroid": 0,
+      "minVersionAndroid": 100,
       "maxVersionAndroid": 100,
       "title": "Gen 2 is Here!",
       "message": "PokeSensor just started picking up Gen 2 Pokemon! Looks like an early release! For custom images, your same URL should work, just re-import it. Example below.",
@@ -175,7 +175,7 @@
       "minVersionAndroid": 0,
       "maxVersionAndroid": 100,
       "title": "Latest PokeSensor News",
-      "message": "Lots of crazy things have happened today so I wrote this to fully explain everything that's happening and hopefully answer the questions a lot of you have about Gen 2 and the API situation.",
+      "message": "Lots of crazy things have happened recently so I wrote this to fully explain everything that's happening and hopefully answer the questions a lot of you have about Gen 2 and the API situation.",
       "buttons": {
         "Learn more": "https://www.reddit.com/r/pokesensor/comments/5ujpux/catching_up_on_gen_2_current_api_situation/?ref=share&ref_source=link",
         "Dismiss": ""
