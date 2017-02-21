@@ -204,6 +204,19 @@
       "buttons": {
         "Dismiss": ""
       }
+    },
+    "24": {
+      "id": 24,
+      "minVersionIOS": 0,
+      "maxVersionIOS": 100,
+      "minVersionAndroid": 0,
+      "maxVersionAndroid": 100,
+      "title": "PokeSensor Discord Server",
+      "message": "PokeSensor has a brand new Discord server, which is basically just a place to chat with other PokeSensor users, get help, receive announcements, etc. Click below if you'd like to join. 100% free, no ads or anything.",
+      "buttons": {
+        "Join": "https://discord.gg/grReHUC",
+        "Dismiss": ""
+      }
     }
   }
 }
