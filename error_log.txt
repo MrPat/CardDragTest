@@ -217,6 +217,18 @@
         "Join": "https://discord.gg/grReHUC",
         "Dismiss": ""
       }
+    },
+    "25": {
+      "id": 25,
+      "minVersionIOS": 0,
+      "maxVersionIOS": 100,
+      "minVersionAndroid": 0,
+      "maxVersionAndroid": 100,
+      "title": "PTC Login Errors",
+      "message": "Pokemon Trainer Club is having server issues right now that are affecting PokeSensor logins. Unfortunately it's out of my control and we'll just have to wait until Pokemon solves the issue, but it's not a PokeSensor bug this time.",
+      "buttons": {
+        "Ok": ""
+      }
     }
   }
 }
