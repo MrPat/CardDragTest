@@ -182,9 +182,9 @@
     },
     "26": {
       "id": 26,
-      "minVersionIOS": 0,
+      "minVersionIOS": 100,
       "maxVersionIOS": 100,
-      "minVersionAndroid": 0,
+      "minVersionAndroid": 100,
       "maxVersionAndroid": 100,
       "title": "PTC Login Errors",
       "message": "Niantic changed something today that messes up logins for the old API. I'm aware that all your accounts say ERROR. I'm trying to figure out what's happening so I can possibly fix it. The paid API seems to still work fine. Monitor my social media for updates. Will not be able to respond for individual requests for status updates.",
@@ -193,17 +193,16 @@
         "Dismiss": ""
       }
     },
-    "27": {
-      "id": 27,
-      "minVersionIOS": 37,
-      "maxVersionIOS": 100,
+    "28": {
+      "id": 28,
+      "minVersionIOS": 0,
+      "maxVersionIOS": 37,
       "minVersionAndroid": 100,
       "maxVersionAndroid": 100,
       "title": "PTC Login Errors",
-      "message": "This update does NOT break the app. Niantic changed something earlier today that messes up logins for the old API. I'm aware that all your accounts say ERROR. I'm trying to figure out what's happening so I can possibly fix it. The paid API seems to still work fine, and it's supported in this update. Monitor my social media for updates. Will not be able to respond for individual requests for status updates.",
+      "message": "Niantic messed up the logins yesterday for the non-paid API but I've already submitted a fix for this. Apple has agreed to give me an expedited app review so the update should be available in a few hours, and then your logins will work again! Monitor my social media for status updates. Thanks for your patience.",
       "buttons": {
-        "Paid API": "https://talk.pogodev.org/d/51-api-hashing-service-by-pokefarmer",
-        "Dismiss": ""
+        "Ok": ""
       }
     }
   }
