@@ -117,19 +117,6 @@
         "Dismiss": ""
       }
     },
-    "17": {
-      "id": 17,
-      "minVersionIOS": 100,
-      "maxVersionIOS": 0,
-      "minVersionAndroid": 39,
-      "maxVersionAndroid": 100,
-      "title": "Background Scanning Beta",
-      "message": "I've added a new Background Scanning Beta feature to this update. You can set the app to scan in the background at a specified time interval, and you can get notifications when it finds certain Pokemon. You can find it on the toolbar menu. For more info, click the button below.",
-      "buttons": {
-        "Learn more": "https://www.reddit.com/r/pokesensor/comments/5rrwso/new_android_update_includes_background_scanning/?ref=share&ref_source=link",
-        "Dismiss": ""
-      }
-    },
     "18": {
       "id": 18,
       "minVersionIOS": 100,
@@ -168,19 +155,6 @@
         "Dismiss": ""
       }
     },
-    "21": {
-      "id": 21,
-      "minVersionIOS": 0,
-      "maxVersionIOS": 100,
-      "minVersionAndroid": 0,
-      "maxVersionAndroid": 100,
-      "title": "Latest PokeSensor News",
-      "message": "Lots of crazy things have happened recently so I wrote this to fully explain everything that's happening and hopefully answer the questions a lot of you have about Gen 2 and the API situation.",
-      "buttons": {
-        "Learn more": "https://www.reddit.com/r/pokesensor/comments/5ujpux/catching_up_on_gen_2_current_api_situation/?ref=share&ref_source=link",
-        "Dismiss": ""
-      }
-    },
     "22": {
       "id": 22,
       "minVersionIOS": 100,
@@ -189,18 +163,6 @@
       "maxVersionAndroid": 43,
       "title": "Paid API Updated",
       "message": "The paid API has been updated to 0.57.2 in this update. If you use the paid API then you should be safer bans and captcha now.",
-      "buttons": {
-        "Dismiss": ""
-      }
-    },
-    "23": {
-      "id": 23,
-      "minVersionIOS": 100,
-      "maxVersionIOS": 0,
-      "minVersionAndroid": 42,
-      "maxVersionAndroid": 43,
-      "title": "IV Override Glitch",
-      "message": "If you've updated or installed on 2/16 or 2/17 there's a chance your Gen 2 IV Overrides could all be enabled. This is due to a glitch that's been fixed, but you may want to check them to be sure. Not a big deal but would make Gen 2 Pokemon ignore your IV settings and always show.",
       "buttons": {
         "Dismiss": ""
       }
@@ -218,14 +180,26 @@
         "Dismiss": ""
       }
     },
-    "25": {
-      "id": 25,
+    "26": {
+      "id": 26,
       "minVersionIOS": 0,
       "maxVersionIOS": 100,
       "minVersionAndroid": 0,
       "maxVersionAndroid": 100,
       "title": "PTC Login Errors",
-      "message": "Pokemon Trainer Club is having server issues right now that are affecting PokeSensor logins. Unfortunately it's out of my control and we'll just have to wait until Pokemon solves the issue, but it's not a PokeSensor bug this time.",
+      "message": "Niantic changed something today that messes up logins for the old API. I'm aware that all your accounts say ERROR. I'm trying to figure out what's happening so I can possibly fix it. The new API seems to still work fine. Monitor my social media for updates. Will not be able to respond for individual requests for status updates.",
+      "buttons": {
+        "Ok": ""
+      }
+    },
+    "27": {
+      "id": 27,
+      "minVersionIOS": 37,
+      "maxVersionIOS": 100,
+      "minVersionAndroid": 100,
+      "maxVersionAndroid": 100,
+      "title": "PTC Login Errors",
+      "message": "This update does NOT break the app. Niantic changed something earlier today that messes up logins for the old API. I'm aware that all your accounts say ERROR. I'm trying to figure out what's happening so I can possibly fix it. The new API seems to still work fine, and it's supported in this update. Monitor my social media for updates. Will not be able to respond for individual requests for status updates.",
       "buttons": {
         "Ok": ""
       }
