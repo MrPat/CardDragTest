@@ -187,9 +187,10 @@
       "minVersionAndroid": 0,
       "maxVersionAndroid": 100,
       "title": "PTC Login Errors",
-      "message": "Niantic changed something today that messes up logins for the old API. I'm aware that all your accounts say ERROR. I'm trying to figure out what's happening so I can possibly fix it. The new API seems to still work fine. Monitor my social media for updates. Will not be able to respond for individual requests for status updates.",
+      "message": "Niantic changed something today that messes up logins for the old API. I'm aware that all your accounts say ERROR. I'm trying to figure out what's happening so I can possibly fix it. The paid API seems to still work fine. Monitor my social media for updates. Will not be able to respond for individual requests for status updates.",
       "buttons": {
-        "Ok": ""
+        "Paid API": "https://talk.pogodev.org/d/51-api-hashing-service-by-pokefarmer",
+        "Dismiss": ""
       }
     },
     "27": {
@@ -199,9 +200,10 @@
       "minVersionAndroid": 100,
       "maxVersionAndroid": 100,
       "title": "PTC Login Errors",
-      "message": "This update does NOT break the app. Niantic changed something earlier today that messes up logins for the old API. I'm aware that all your accounts say ERROR. I'm trying to figure out what's happening so I can possibly fix it. The new API seems to still work fine, and it's supported in this update. Monitor my social media for updates. Will not be able to respond for individual requests for status updates.",
+      "message": "This update does NOT break the app. Niantic changed something earlier today that messes up logins for the old API. I'm aware that all your accounts say ERROR. I'm trying to figure out what's happening so I can possibly fix it. The paid API seems to still work fine, and it's supported in this update. Monitor my social media for updates. Will not be able to respond for individual requests for status updates.",
       "buttons": {
-        "Ok": ""
+        "Paid API": "https://talk.pogodev.org/d/51-api-hashing-service-by-pokefarmer",
+        "Dismiss": ""
       }
     }
   }
