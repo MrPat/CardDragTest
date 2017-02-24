@@ -193,14 +193,14 @@
         "Dismiss": ""
       }
     },
-    "28": {
-      "id": 28,
+    "29": {
+      "id": 29,
       "minVersionIOS": 0,
       "maxVersionIOS": 37,
       "minVersionAndroid": 100,
       "maxVersionAndroid": 100,
       "title": "PTC Login Errors",
-      "message": "Niantic messed up the logins yesterday for the non-paid API but I've already submitted a fix for this. Apple has agreed to give me an expedited app review so the update should be available in a few hours, and then your logins will work again! Monitor my social media for status updates. Thanks for your patience.",
+      "message": "Niantic messed up the logins yesterday for the non-paid API but I've already submitted a fix for this. Apple has agreed to give me an expedited app review so the update should be available soon. I don't know why, but it's taking Apple a long time for an "expedited" review, so I apologize for the delay. Will send another message as soon as it's approved.",
       "buttons": {
         "Ok": ""
       }
