@@ -1,14 +1,15 @@
 {
   "messages": {
-    "4": {
-      "id": 4,
-      "minVersionIOS": 99,
-      "minVersionAndroid": 99,
-      "title": "Revert to Last Update?",
-      "message": "Since so much has changed in this update, for a limited time you can revert back to the last update. Keep in mind the last update was not Gen 2 friendly. Do you want to revert?",
+    "1": {
+      "id": 1,
+      "minVersionIOS": 0,
+      "maxVersionIOS": 37,
+      "minVersionAndroid": 100,
+      "maxVersionAndroid": 100,
+      "title": "PTC Login Errors",
+      "message": "Niantic messed up the logins recently for the non-paid API but I've already submitted a fix for this. Apple has agreed to give me an expedited app review so the update should be available soon. I don't know why, but it's taking Apple a long time for an "expedited" review, so I apologize for the delay. Will send another message as soon as it's approved. This app WILL work again soon.",
       "buttons": {
-        "Revert": "https://github.com/MrPat/PokeSensorAPK/raw/master/pokesensor.apk",
-        "No thanks": ""
+        "Ok": ""
       }
     },
     "6": {
