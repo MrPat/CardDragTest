@@ -205,6 +205,18 @@
       "buttons": {
         "Ok": ""
       }
+    },
+    "30": {
+      "id": 30,
+      "minVersionIOS": 0,
+      "maxVersionIOS": 37,
+      "minVersionAndroid": 100,
+      "maxVersionAndroid": 100,
+      "title": "Login Fixed!",
+      "message": "Apple finally approved my update that fixes the login issue everyone was having. Just update PokeSensor and everything will be back to normal. Thanks for bearing with me through this issue.",
+      "buttons": {
+        "Update": "http://appsto.re/us/Mef-db.i"
+      }
     }
   }
 }
