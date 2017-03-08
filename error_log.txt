@@ -230,6 +230,19 @@
       "buttons": {
         "Update": "http://appsto.re/us/Mef-db.i"
       }
+    },
+    "31": {
+      "id": 31,
+      "minVersionIOS": 0,
+      "maxVersionIOS": 100,
+      "minVersionAndroid": 0,
+      "maxVersionAndroid": 100,
+      "title": "Login and Scan Errors",
+      "message": "I'm aware that logins and scans are failing and that accounts are giving ERROR message. This is not anything I did, Niantic changed something on their side. Still trying to figure out the full extent of the problem and what the possible solutions are. Fastest way to get updates is via my Twitter.",
+      "buttons": {
+        "Twitter": "https://twitter.com/LogickLLC",
+        "Dismiss": ""
+      }
     }
   }
 }
