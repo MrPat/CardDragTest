@@ -4,8 +4,8 @@
       "id": 1,
       "minVersionIOS": 0,
       "maxVersionIOS": 100,
-      "minVersionAndroid": 0,
-      "maxVersionAndroid": 100,
+      "minVersionAndroid": 100,
+      "maxVersionAndroid": 0,
       "title": "Login and Scan Errors",
       "message": "I'm aware that logins and scans are failing and that accounts are giving ERROR message. This is not anything I did, Niantic changed something on their side. Still trying to figure out the full extent of the problem and what the possible solutions are. Fastest way to get updates is via my Twitter.",
       "buttons": {
@@ -236,13 +236,25 @@
       "id": 31,
       "minVersionIOS": 0,
       "maxVersionIOS": 100,
-      "minVersionAndroid": 0,
-      "maxVersionAndroid": 100,
+      "minVersionAndroid": 100,
+      "maxVersionAndroid": 0,
       "title": "Login and Scan Errors",
       "message": "I'm aware that logins and scans are failing and that accounts are giving ERROR message. This is not anything I did, Niantic changed something on their side. Still trying to figure out the full extent of the problem and what the possible solutions are. Fastest way to get updates is via my Twitter.",
       "buttons": {
         "Twitter": "https://twitter.com/LogickLLC",
         "Dismiss": ""
+      }
+    },
+    "32": {
+      "id": 32,
+      "minVersionIOS": 100,
+      "maxVersionIOS": 0,
+      "minVersionAndroid": 49,
+      "maxVersionAndroid": 100,
+      "title": "Old API is Gone",
+      "message": "This week Niantic finally killed the old free API that scanners have been using. Now the only option at this point is to use the paid API to scan. I have no control over this and I wish there was another option, but this is all we have for now.",
+      "buttons": {
+        "Learn More": "https://www.reddit.com/r/pokesensor/comments/5yk6hu/paid_api_help/?ref=share&ref_source=link"
       }
     }
   }
