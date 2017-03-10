@@ -260,7 +260,7 @@
     "33": {
       "id": 33,
       "minVersionIOS": 0,
-      "maxVersionIOS": 100,
+      "maxVersionIOS": 39,
       "minVersionAndroid": 100,
       "maxVersionAndroid": 0,
       "title": "Working on an Update",
