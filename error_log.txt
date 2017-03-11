@@ -7,9 +7,9 @@
       "minVersionAndroid": 100,
       "maxVersionAndroid": 0,
       "title": "Login and Scan Errors",
-      "message": "I'm aware that logins and scans are failing and that accounts are giving ERROR message. This is not anything I did, Niantic changed something on their side. Still trying to figure out the full extent of the problem and what the possible solutions are. Fastest way to get updates is via my Twitter.",
+      "message": "I'm aware that logins and scans are failing and that accounts are giving ERROR message. This is not anything I did, Niantic changed something on their side. There's an update coming that will fix it, but does come at a cost. See below for full details.",
       "buttons": {
-        "Twitter": "https://twitter.com/LogickLLC",
+        "Learn more": "https://www.reddit.com/r/pokesensor/comments/5yqtod/ios_update_submitted_now_waiting_for_apple_review/?ref=share&ref_source=link",
         "Dismiss": ""
       }
     },
@@ -257,16 +257,17 @@
         "Learn More": "https://www.reddit.com/r/pokesensor/comments/5yk6hu/paid_api_help/?ref=share&ref_source=link"
       }
     },
-    "33": {
-      "id": 33,
+    "34": {
+      "id": 34,
       "minVersionIOS": 0,
-      "maxVersionIOS": 39,
+      "maxVersionIOS": 100,
       "minVersionAndroid": 100,
       "maxVersionAndroid": 0,
-      "title": "Working on an Update",
-      "message": "Niantic broke the app again this week and it won't work again until I update it, which I'm working on now. At that point, only the paid API will work since Niantic killed the free API. I have no control over that and I'm trying to finish the update ASAP. Please be patient and click below to learn more.",
+      "title": "Login and Scan Errors",
+      "message": "I'm aware that logins and scans are failing and that accounts are giving ERROR message. This is not anything I did, Niantic changed something on their side. There's an update coming that will fix it, but does come at a cost. See below for full details.",
       "buttons": {
-        "Learn More": "https://www.reddit.com/r/pokesensor/comments/5ygv9q/pokesensor_to_come_back_today_but_without_free_api/"
+        "Learn more": "https://www.reddit.com/r/pokesensor/comments/5yqtod/ios_update_submitted_now_waiting_for_apple_review/?ref=share&ref_source=link",
+        "Dismiss": ""
       }
     }
   }
