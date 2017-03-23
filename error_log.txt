@@ -268,6 +268,19 @@
       "buttons": {
         "Learn More": "https://www.reddit.com/r/pokesensor/comments/5yk6hu/paid_api_help/?ref=share&ref_source=link"
       }
+    },
+    "36": {
+      "id": 36,
+      "minVersionIOS": 0,
+      "maxVersionIOS": 100,
+      "minVersionAndroid": 0,
+      "maxVersionAndroid": 100,
+      "title": "Paid API Issues",
+      "message": "The Paid API Service is having some kind of server problems right now. This isn't something I can fix because it's not my service, so we're just going to have to wait until they get it working again. Complaints or questions need to go to the appropriate channels on the PogoDev discord, linked below.",
+      "buttons": {
+        "PogoDev Discord": "https://discordapp.com/invite/dKTSHZC",
+        "Dismiss": ""
+      }
     }
   }
 }
