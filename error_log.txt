@@ -271,10 +271,10 @@
     },
     "36": {
       "id": 36,
-      "minVersionIOS": 0,
-      "maxVersionIOS": 100,
-      "minVersionAndroid": 0,
-      "maxVersionAndroid": 100,
+      "minVersionIOS": 100,
+      "maxVersionIOS": 0,
+      "minVersionAndroid": 100,
+      "maxVersionAndroid": 0,
       "title": "Paid API Issues",
       "message": "The Paid API Service is having some kind of server problems right now. This isn't something I can fix because it's not my service, so we're just going to have to wait until they get it working again. Complaints or questions need to go to the appropriate channels on the PogoDev discord, linked below.",
       "buttons": {
