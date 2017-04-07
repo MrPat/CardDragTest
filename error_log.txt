@@ -295,16 +295,28 @@
         "Dismiss": ""
       }
     },
-    "39": {
-      "id": 39,
+    "40": {
+      "id": 40,
       "minVersionIOS": 0,
       "maxVersionIOS": 45,
       "minVersionAndroid": 100,
       "maxVersionAndroid": 0,
       "title": "Paid API Forced",
-      "message": "Niantic forced the paid API level to the latest version. Please upgrade your app to get the latest API version and you'll be safe to scan again.",
+      "message": "Niantic forced the paid API level to the latest version. The latest PokeSensor iOS update has some bad crashing issues for certain people, so you may not want to update yet.",
       "buttons": {
-        "Update": "http://appsto.re/us/Mef-db.i",
+        "Ok": ""
+      }
+    },
+    "41": {
+      "id": 41,
+      "minVersionIOS": 46,
+      "maxVersionIOS": 100,
+      "minVersionAndroid": 100,
+      "maxVersionAndroid": 0,
+      "title": "Crashing Issues",
+      "message": "I'm aware of the huge crashing issue on iOS. I have no idea what's causing it because it works perfectly for me and didn't give any of the beta testers this issue. Click below for a possible workaround until I can fix the core problem. If you aren't being affected by the crashes, feel free to ignore this.",
+      "buttons": {
+        "More Info": "https://www.reddit.com/r/pokesensor/comments/640yz0/im_aware_of_huge_crashing_issue_on_ios_heres_a/?ref=share&ref_source=link",
         "Dismiss": ""
       }
     }
