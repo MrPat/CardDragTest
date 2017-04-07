@@ -291,20 +291,21 @@
       "title": "Paid API Forced",
       "message": "Niantic forced the paid API level to the latest version. Please upgrade your app to get the latest API version and you'll be safe to scan again.",
       "buttons": {
-        "Update": "https://github.com/MrPat/PokeSensorAPK/raw/master/pokesensor.apk"
+        "Update": "https://github.com/MrPat/PokeSensorAPK/raw/master/pokesensor.apk",
+        "Dismiss": ""
       }
     },
-    "38": {
-      "id": 38,
+    "39": {
+      "id": 39,
       "minVersionIOS": 0,
-      "maxVersionIOS": 100,
+      "maxVersionIOS": 45,
       "minVersionAndroid": 100,
       "maxVersionAndroid": 0,
       "title": "Paid API Forced",
-      "message": "Niantic forced the paid API level to the latest version. I submitted an update but Apple has delayed the review for 4 days and counting. Nothing you or I can do to speed this along. Until then scanning could get your scanner accounts banned. See here for more info.",
+      "message": "Niantic forced the paid API level to the latest version. Please upgrade your app to get the latest API version and you'll be safe to scan again.",
       "buttons": {
-        "More Info": "https://www.reddit.com/r/pokesensor/comments/63wqh2/paid_api_was_forced_to_newest_api_level_android/?ref=share&ref_source=link",
-        "Dismiss": ""
+        "Update": "http://appsto.re/us/Mef-db.i",
+        "Dismiss"
       }
     }
   }
