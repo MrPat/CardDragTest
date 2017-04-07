@@ -305,7 +305,7 @@
       "message": "Niantic forced the paid API level to the latest version. Please upgrade your app to get the latest API version and you'll be safe to scan again.",
       "buttons": {
         "Update": "http://appsto.re/us/Mef-db.i",
-        "Dismiss"
+        "Dismiss": ""
       }
     }
   }
