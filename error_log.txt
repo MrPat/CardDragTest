@@ -174,8 +174,8 @@
       "id": 22,
       "minVersionIOS": 100,
       "maxVersionIOS": 0,
-      "minVersionAndroid": 43,
-      "maxVersionAndroid": 43,
+      "minVersionAndroid": 100,
+      "maxVersionAndroid": 0,
       "title": "Paid API Updated",
       "message": "The paid API has been updated to 0.57.2 in this update. If you use the paid API then you should be safer bans and captcha now.",
       "buttons": {
@@ -184,10 +184,10 @@
     },
     "24": {
       "id": 24,
-      "minVersionIOS": 0,
-      "maxVersionIOS": 100,
-      "minVersionAndroid": 0,
-      "maxVersionAndroid": 100,
+      "minVersionIOS": 100,
+      "maxVersionIOS": 0,
+      "minVersionAndroid": 100,
+      "maxVersionAndroid": 0,
       "title": "PokeSensor Discord Server",
       "message": "PokeSensor has a brand new Discord server, which is basically just a place to chat with other PokeSensor users, get help, receive announcements, etc. Click below if you'd like to join. 100% free, no ads or anything.",
       "buttons": {
@@ -210,10 +210,10 @@
     },
     "29": {
       "id": 29,
-      "minVersionIOS": 0,
-      "maxVersionIOS": 37,
+      "minVersionIOS": 100,
+      "maxVersionIOS": 0,
       "minVersionAndroid": 100,
-      "maxVersionAndroid": 100,
+      "maxVersionAndroid": 0,
       "title": "PTC Login Errors",
       "message": "Niantic messed up the logins yesterday for the non-paid API but I've already submitted a fix for this. Apple has agreed to give me an expedited app review so the update should be available soon. I don't know why, but it's taking Apple a long time for an 'expedited' review, so I apologize for the delay. Will send another message as soon as it's approved.",
       "buttons": {
@@ -222,10 +222,10 @@
     },
     "30": {
       "id": 30,
-      "minVersionIOS": 0,
-      "maxVersionIOS": 37,
+      "minVersionIOS": 100,
+      "maxVersionIOS": 0,
       "minVersionAndroid": 100,
-      "maxVersionAndroid": 100,
+      "maxVersionAndroid": 0,
       "title": "Login Fixed!",
       "message": "Apple finally approved my update that fixes the login issue everyone was having. Just update PokeSensor and everything will be back to normal. Thanks for bearing with me through this issue.",
       "buttons": {
@@ -249,8 +249,8 @@
       "id": 32,
       "minVersionIOS": 100,
       "maxVersionIOS": 0,
-      "minVersionAndroid": 49,
-      "maxVersionAndroid": 100,
+      "minVersionAndroid": 100,
+      "maxVersionAndroid": 0,
       "title": "Old API is Gone",
       "message": "This week Niantic finally killed the old free API that scanners have been using. Now the only option at this point is to use the paid API to scan. I have no control over this and I wish there was another option, but this is all we have for now.",
       "buttons": {
@@ -259,8 +259,8 @@
     },
     "35": {
       "id": 35,
-      "minVersionIOS": 42,
-      "maxVersionIOS": 100,
+      "minVersionIOS": 100,
+      "maxVersionIOS": 0,
       "minVersionAndroid": 100,
       "maxVersionAndroid": 0,
       "title": "Old API is Gone",
