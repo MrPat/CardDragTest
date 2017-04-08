@@ -310,13 +310,26 @@
     "41": {
       "id": 41,
       "minVersionIOS": 46,
-      "maxVersionIOS": 100,
+      "maxVersionIOS": 46,
       "minVersionAndroid": 100,
       "maxVersionAndroid": 0,
       "title": "Crashing Issues",
       "message": "I'm aware of the huge crashing issue on iOS. I have no idea what's causing it because it works perfectly for me and didn't give any of the beta testers this issue. Click below for a possible workaround until I can fix the core problem. If you aren't being affected by the crashes, feel free to ignore this.",
       "buttons": {
         "More Info": "https://www.reddit.com/r/pokesensor/comments/640yz0/im_aware_of_huge_crashing_issue_on_ios_heres_a/?ref=share&ref_source=link",
+        "Dismiss": ""
+      }
+    },
+    "42": {
+      "id": 42,
+      "minVersionIOS": 46,
+      "maxVersionIOS": 46,
+      "minVersionAndroid": 100,
+      "maxVersionAndroid": 0,
+      "title": "Possible Fix for Crashes",
+      "message": "After talking to many users and troubleshooting with them, we've come up with a few possible temporary fixes for the crashing issue. This should help you along until I'm able to find and fix the core problem. See below.",
+      "buttons": {
+        "More Info": "https://www.reddit.com/r/pokesensor/comments/6441sq/status_update_on_ios_issues_a_few_possible_fixes/?ref=share&ref_source=link",
         "Dismiss": ""
       }
     }
