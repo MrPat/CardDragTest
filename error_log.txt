@@ -2,14 +2,15 @@
   "messages": {
     "1": {
       "id": 1,
-      "minVersionIOS": 0,
-      "maxVersionIOS": 37,
+      "minVersionIOS": 100,
+      "maxVersionIOS": 0,
       "minVersionAndroid": 100,
-      "maxVersionAndroid": 100,
-      "title": "PTC Login Errors",
-      "message": "Niantic messed up the logins recently for the non-paid API but I've already submitted a fix for this. Apple has agreed to give me an expedited app review so the update should be available soon. I don't know why, but it's taking Apple a long time for an 'expedited' review, so I apologize for the delay. Will send another message as soon as it's approved. This app WILL work again soon.",
+      "maxVersionAndroid": 0,
+      "title": "Login and Scan Errors",
+      "message": "I'm aware that logins and scans are failing and that accounts are giving ERROR message. This is not anything I did, Niantic changed something on their side. There's an update coming that will fix it, but does come at a cost. See below for full details.",
       "buttons": {
-        "Ok": ""
+        "Learn more": "https://www.reddit.com/r/pokesensor/comments/5yqtod/ios_update_submitted_now_waiting_for_apple_review/?ref=share&ref_source=link",
+        "Dismiss": ""
       }
     },
     "2": {
@@ -173,8 +174,8 @@
       "id": 22,
       "minVersionIOS": 100,
       "maxVersionIOS": 0,
-      "minVersionAndroid": 43,
-      "maxVersionAndroid": 43,
+      "minVersionAndroid": 100,
+      "maxVersionAndroid": 0,
       "title": "Paid API Updated",
       "message": "The paid API has been updated to 0.57.2 in this update. If you use the paid API then you should be safer bans and captcha now.",
       "buttons": {
@@ -183,10 +184,10 @@
     },
     "24": {
       "id": 24,
-      "minVersionIOS": 0,
-      "maxVersionIOS": 100,
-      "minVersionAndroid": 0,
-      "maxVersionAndroid": 100,
+      "minVersionIOS": 100,
+      "maxVersionIOS": 0,
+      "minVersionAndroid": 100,
+      "maxVersionAndroid": 0,
       "title": "PokeSensor Discord Server",
       "message": "PokeSensor has a brand new Discord server, which is basically just a place to chat with other PokeSensor users, get help, receive announcements, etc. Click below if you'd like to join. 100% free, no ads or anything.",
       "buttons": {
@@ -209,10 +210,10 @@
     },
     "29": {
       "id": 29,
-      "minVersionIOS": 0,
-      "maxVersionIOS": 37,
+      "minVersionIOS": 100,
+      "maxVersionIOS": 0,
       "minVersionAndroid": 100,
-      "maxVersionAndroid": 100,
+      "maxVersionAndroid": 0,
       "title": "PTC Login Errors",
       "message": "Niantic messed up the logins yesterday for the non-paid API but I've already submitted a fix for this. Apple has agreed to give me an expedited app review so the update should be available soon. I don't know why, but it's taking Apple a long time for an 'expedited' review, so I apologize for the delay. Will send another message as soon as it's approved.",
       "buttons": {
@@ -221,14 +222,115 @@
     },
     "30": {
       "id": 30,
-      "minVersionIOS": 0,
-      "maxVersionIOS": 37,
+      "minVersionIOS": 100,
+      "maxVersionIOS": 0,
       "minVersionAndroid": 100,
-      "maxVersionAndroid": 100,
+      "maxVersionAndroid": 0,
       "title": "Login Fixed!",
       "message": "Apple finally approved my update that fixes the login issue everyone was having. Just update PokeSensor and everything will be back to normal. Thanks for bearing with me through this issue.",
       "buttons": {
         "Update": "http://appsto.re/us/Mef-db.i"
+      }
+    },
+    "31": {
+      "id": 31,
+      "minVersionIOS": 100,
+      "maxVersionIOS": 0,
+      "minVersionAndroid": 100,
+      "maxVersionAndroid": 0,
+      "title": "Login and Scan Errors",
+      "message": "I'm aware that logins and scans are failing and that accounts are giving ERROR message. This is not anything I did, Niantic changed something on their side. Still trying to figure out the full extent of the problem and what the possible solutions are. Fastest way to get updates is via my Twitter.",
+      "buttons": {
+        "Twitter": "https://twitter.com/LogickLLC",
+        "Dismiss": ""
+      }
+    },
+    "32": {
+      "id": 32,
+      "minVersionIOS": 100,
+      "maxVersionIOS": 0,
+      "minVersionAndroid": 100,
+      "maxVersionAndroid": 0,
+      "title": "Old API is Gone",
+      "message": "This week Niantic finally killed the old free API that scanners have been using. Now the only option at this point is to use the paid API to scan. I have no control over this and I wish there was another option, but this is all we have for now.",
+      "buttons": {
+        "Learn More": "https://www.reddit.com/r/pokesensor/comments/5yk6hu/paid_api_help/?ref=share&ref_source=link"
+      }
+    },
+    "35": {
+      "id": 35,
+      "minVersionIOS": 100,
+      "maxVersionIOS": 0,
+      "minVersionAndroid": 100,
+      "maxVersionAndroid": 0,
+      "title": "Old API is Gone",
+      "message": "This week Niantic finally killed the old free API that scanners have been using. Now the only option at this point is to use the paid API to scan. I have no control over this and I wish there was another option, but this is all we have for now.",
+      "buttons": {
+        "Learn More": "https://www.reddit.com/r/pokesensor/comments/5yk6hu/paid_api_help/?ref=share&ref_source=link"
+      }
+    },
+    "36": {
+      "id": 36,
+      "minVersionIOS": 100,
+      "maxVersionIOS": 0,
+      "minVersionAndroid": 100,
+      "maxVersionAndroid": 0,
+      "title": "Paid API Issues",
+      "message": "The Paid API Service is having some kind of server problems right now. This isn't something I can fix because it's not my service, so we're just going to have to wait until they get it working again. Complaints or questions need to go to the appropriate channels on the PogoDev discord, linked below.",
+      "buttons": {
+        "PogoDev Discord": "https://discordapp.com/invite/dKTSHZC",
+        "Dismiss": ""
+      }
+    },
+    "37": {
+      "id": 37,
+      "minVersionIOS": 100,
+      "maxVersionIOS": 0,
+      "minVersionAndroid": 0,
+      "maxVersionAndroid": 50,
+      "title": "Paid API Forced",
+      "message": "Niantic forced the paid API level to the latest version. Please upgrade your app to get the latest API version and you'll be safe to scan again.",
+      "buttons": {
+        "Update": "https://github.com/MrPat/PokeSensorAPK/raw/master/pokesensor.apk",
+        "Dismiss": ""
+      }
+    },
+    "40": {
+      "id": 40,
+      "minVersionIOS": 0,
+      "maxVersionIOS": 45,
+      "minVersionAndroid": 100,
+      "maxVersionAndroid": 0,
+      "title": "Paid API Forced",
+      "message": "Niantic forced the paid API level to the latest version. The latest PokeSensor iOS update has some bad crashing issues for certain people, so you may not want to update yet.",
+      "buttons": {
+        "Ok": ""
+      }
+    },
+    "41": {
+      "id": 41,
+      "minVersionIOS": 46,
+      "maxVersionIOS": 46,
+      "minVersionAndroid": 100,
+      "maxVersionAndroid": 0,
+      "title": "Crashing Issues",
+      "message": "I'm aware of the huge crashing issue on iOS. I have no idea what's causing it because it works perfectly for me and didn't give any of the beta testers this issue. Click below for a possible workaround until I can fix the core problem. If you aren't being affected by the crashes, feel free to ignore this.",
+      "buttons": {
+        "More Info": "https://www.reddit.com/r/pokesensor/comments/640yz0/im_aware_of_huge_crashing_issue_on_ios_heres_a/?ref=share&ref_source=link",
+        "Dismiss": ""
+      }
+    },
+    "42": {
+      "id": 42,
+      "minVersionIOS": 46,
+      "maxVersionIOS": 46,
+      "minVersionAndroid": 100,
+      "maxVersionAndroid": 0,
+      "title": "Possible Fix for Crashes",
+      "message": "After talking to many users and troubleshooting with them, we've come up with a few possible temporary fixes for the crashing issue. This should help you along until I'm able to find and fix the core problem. See below.",
+      "buttons": {
+        "More Info": "https://www.reddit.com/r/pokesensor/comments/6441sq/status_update_on_ios_issues_a_few_possible_fixes/?ref=share&ref_source=link",
+        "Dismiss": ""
       }
     }
   }
