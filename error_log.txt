@@ -332,6 +332,18 @@
         "More Info": "https://www.reddit.com/r/pokesensor/comments/6441sq/status_update_on_ios_issues_a_few_possible_fixes/?ref=share&ref_source=link",
         "Dismiss": ""
       }
+    },
+    "43": {
+      "id": 43,
+      "minVersionIOS": 46,
+      "maxVersionIOS": 46,
+      "minVersionAndroid": 100,
+      "maxVersionAndroid": 0,
+      "title": "New iOS Update",
+      "message": "The new 4.3.1 iOS update is ready! It fixes the constant crashing issue some of you were experiencing in the last update. Thanks for bearing with me on this.",
+      "buttons": {
+        "Update": "http://appsto.re/us/Mef-db.i"
+      }
     }
   }
 }
