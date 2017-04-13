@@ -344,6 +344,18 @@
       "buttons": {
         "Update": "http://appsto.re/us/Mef-db.i"
       }
+    },
+    "44": {
+      "id": 44,
+      "minVersionIOS": 0,
+      "maxVersionIOS": 100,
+      "minVersionAndroid": 0,
+      "maxVersionAndroid": 100,
+      "title": "False Bans",
+      "message": "If all/most of your accounts say 'Banned', that is likely a false positive. I've confirmed that expired API keys can cause accounts to say 'Banned' in PokeSensor when they really aren't, so if your key is over a month old, you need to buy a new one. Your accounts are most likely fine, they just show up as 'Banned' by mistake in that case.",
+      "buttons": {
+        "Ok": ""
+      }
     }
   }
 }
