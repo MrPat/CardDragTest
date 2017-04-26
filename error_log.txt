@@ -356,6 +356,18 @@
       "buttons": {
         "Ok": ""
       }
+    },
+    "45": {
+      "id": 45,
+      "minVersionIOS": 0,
+      "maxVersionIOS": 100,
+      "minVersionAndroid": 0,
+      "maxVersionAndroid": 100,
+      "title": "PokeSensor Shutting Down",
+      "message": "After the last few days of weighing my options, I've decided it's time to shutdown PokeSensor, both iOS and Android. The latest constraints from the Pokemon Company have essentially crippled the app, and it won't be worth it to continue development at this point, for multiple reasons. You guys have been awesome and have really made this entire process more worthwhile to me. Full details below.",
+      "buttons": {
+        "More Info": "https://www.reddit.com/r/pokemongodev/comments/67d58f/pokesensor_shutting_down_after_9_months_of/"
+      }
     }
   }
 }
