@@ -368,6 +368,18 @@
       "buttons": {
         "More Info": "https://www.reddit.com/r/pokemongodev/comments/67d58f/pokesensor_shutting_down_after_9_months_of/"
       }
+    },
+    "46": {
+      "id": 46,
+      "minVersionIOS": 0,
+      "maxVersionIOS": 100,
+      "minVersionAndroid": 0,
+      "maxVersionAndroid": 100,
+      "title": "API Changes",
+      "message": "Although this app is no longer officially being supported, it still works for now. However, Niantic made some changes that make it easier to detect scanners. So your scanner accounts may get flagged if you keep scanning. Not a big deal to most people but I felt you should be aware of this.",
+      "buttons": {
+        "Dismiss": ""
+      }
     }
   }
 }
