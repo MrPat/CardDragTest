@@ -1,1 +1,1 @@
-Supported fully without need for app update.
+Unable to update encryption. Should work but scanner accounts could be bannable.
