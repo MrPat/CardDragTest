@@ -1,1 +1,1 @@
-Unable to update encryption. Should work but scanner accounts could be bannable.
+Unable to update encryption. Should work but scanner accounts ARE detectable.
