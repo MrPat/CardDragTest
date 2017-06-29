@@ -1,0 +1,29 @@
+{
+  "messages": {
+    "1": {
+      "id": 1,
+      "minVersionIOS": 0,
+      "maxVersionIOS": 100,
+      "minVersionAndroid": 0,
+      "maxVersionAndroid": 100,
+      "title": "Test Message",
+      "message": "2 button message",
+      "buttons": {
+        "Learn more": "https://www.reddit.com/r/pokesensor/comments/5yqtod/ios_update_submitted_now_waiting_for_apple_review/?ref=share&ref_source=link",
+        "Dismiss": ""
+      }
+    },
+    "2": {
+      "id": 2,
+      "minVersionIOS": 0,
+      "maxVersionIOS": 100,
+      "minVersionAndroid": 0,
+      "maxVersionAndroid": 100,
+      "title": "Test Message",
+      "message": "1 button message",
+      "buttons": {
+        "Ok": ""
+      }
+    }
+  }
+}
