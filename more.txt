@@ -4,7 +4,7 @@
       "id": "FreeCell",
       "name": "FreeCell ++ Solitaire",
       "description": "A classic FreeCell Solitaire card game featuring big cards that are easy on your eyes! Relax and play FreeCell with 1 finger using drag-and-drop or single tap gameplay. Get unlimited hints and undo's if you get stuck. All for FREE!",
-      "picture": "",
+      "picture": "https://github.com/MrPat/CardDragTest/raw/master/more/Freecell.png",
       "extension": ".png",
       "page": "https://itunes.apple.com/us/app/freecell++/id1125833248"
     }
